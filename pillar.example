@@ -1,0 +1,10 @@
+ad:
+  domain: <domain name example.com>
+  username: <Domain User Administrator>
+  password: BadPassword
+  
+uxuser:
+  password: T3mPp@ssw0rd!
+  
+winuser
+  password: T3mPp@ssw0rd!
