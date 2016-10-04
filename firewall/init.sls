@@ -1,3 +1,3 @@
 firewall:
-  win_firewall.disabled
+  firewall.disabled
   
