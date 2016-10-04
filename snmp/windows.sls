@@ -1,3 +1,3 @@
 snmp:
-  win_servermanger.installed:
+  win_servermanager.installed:
     - name: SNMP-WMI-Provider
