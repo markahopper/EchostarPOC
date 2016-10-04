@@ -10,3 +10,4 @@ base:
     - rdp
     - snmp.windows
     - users.windows
+    - firewall
