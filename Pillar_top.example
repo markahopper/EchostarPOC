@@ -1,3 +1,5 @@
+# Save as top.sls in /srv/pillar/ on master
+
 base:
-  ‘*’:
+  ’*’:
     - echostar

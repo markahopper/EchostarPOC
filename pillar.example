@@ -1,3 +1,7 @@
+# on Master mkdir /srv/pillar
+#  place in /srv/pillar on master as echostar.sls 
+
+
 ad:
   domain: <domain name example.com>
   username: <Domain User Administrator>
