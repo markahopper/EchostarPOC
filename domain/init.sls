@@ -14,3 +14,4 @@ join_domain:
     - domain: {{ pillar['ad']['domain'] }}
     - username: {{ pillar['ad']['username'] }}
     - password: {{ pillar['ad']['password'] }}
+    - restart: true
